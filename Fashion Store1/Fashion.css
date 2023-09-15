@@ -1,0 +1,25 @@
+input[type=search]
+{
+    width: 650px;
+    background-image: url('images/search.jfif.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+a:link
+{
+    text-decoration: none;
+}
+.hide
+{
+    display: none;
+}
+.dep:hover>.hide
+{
+    display: block;
+}
+table img
+{
+    height: 90px;
+    width: 90px;
+}
+
